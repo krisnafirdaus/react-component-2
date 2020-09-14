@@ -39,7 +39,6 @@ export default class CounterClass extends Component {
         <div className="reset">
           <button onClick={this.reset}>reset</button>
         </div>
-        <hr />
       </div>
     );
   }

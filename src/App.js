@@ -1,13 +1,11 @@
 import React from "react";
-import CounterFunc from "./Component/CounterFunc";
-import CounterClass from "./Component/CounterClass";
+import ListProduct from "Component/ListProduct";
 
 import "./App.css";
 function App() {
   return (
     <div>
-      <CounterFunc />
-      <CounterClass />
+      <ListProduct />
     </div>
   );
 }
