@@ -1,0 +1,23 @@
+.countFunction {
+  text-align: center;
+}
+
+.functNum {
+  display: inline;
+  padding: 30px;
+  padding-top: 100px;
+}
+
+.countClass {
+  text-align: center;
+}
+
+.reset {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.reset button {
+  padding-left: 30px;
+  padding-right: 30px;
+}
