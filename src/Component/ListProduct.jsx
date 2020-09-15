@@ -10,19 +10,19 @@ const ListProduct = () => {
   return (
     <div className="kartuList">
       <div className="card1">
-        <Card src={Book} nama="buku" harga={4000} />
+        <Card src={Book} nama="Buku" harga="Rp 4000" />
       </div>
 
       <div className="card2">
-        <Card src={Pencil} nama="pensil" harga={2000} />
+        <Card src={Pencil} nama="Pensil" harga="Rp 2000" />
       </div>
 
       <div className="card3">
-        <Card src={Pen} nama="pulpen" harga={2500} />
+        <Card src={Pen} nama="Pulpen" harga="Rp 2500" />
       </div>
 
       <div className="card4">
-        <Card src={Eraser} nama="penghapus" harga={1500} />
+        <Card src={Eraser} nama="Penghapus" harga="Rp 1500" />
       </div>
     </div>
   );
